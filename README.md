@@ -40,8 +40,6 @@ Create a Dockerfile to set up an Nginx web server based on an Ubuntu image, whic
 - Verify that your CI/CD pipeline builds and pushes the Docker image successfully.
 - Provide a link to your repository and any instructions needed to demonstrate that your setup works.
 
-## Example
-
 If you need an example of how to set up your Dockerfile or CI/CD pipeline, refer to the documentation for Docker and the respective CI/CD tools you are using.
 
 ---
